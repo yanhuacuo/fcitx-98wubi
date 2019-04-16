@@ -4,7 +4,7 @@ PROJECT_ROOT=$(dirname $(realpath $0))
 FCITX_ROOT="/usr/share/fcitx"
 
 rm -f $FCITX_ROOT/imicon/wubi98.png
-rm -f $FCITX_ROOT/table/98wubi_*
+rm -f $FCITX_ROOT/table/98wb_*
 
 rm -f $FCITX_ROOT/data/punc.mb.zh_CN
 rm -f $FCITX_ROOT/data/punc.mb.zh_HK
