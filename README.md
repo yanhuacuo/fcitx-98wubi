@@ -1,9 +1,12 @@
-* 以管理员权限，运行『set.sh』脚本，自动添加『98五笔』到『fcitx』。
----
-#### 例如：
+# fcitx-98wubi
 
-* 在当前文件夹下面打开『终端』，以确保『终端』的默认路径是当前文件夹。
-* $:sudo ./set.sh
-* 或
-* $:sudo sh set.sh
-* 如果提示『set.sh』脚本不能运行，请先给予它『可执行权限』。
+98wubi table for fcitx, tested on Ubuntu 18.04
+
+## Installation
+
+    sudo sh install.sh
+
+## Uninstallation
+
+    sudo sh uninstall.sh
+
