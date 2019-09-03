@@ -6442,7 +6442,8 @@ byxg 防线
 byxp 防缩
 byxu 防弹
 byxx 聚讼纷纭
-byyp 﨤
+byp 﨤
+bypi 﨤
 byyy 阴谋诡计
 c 以
 c 又

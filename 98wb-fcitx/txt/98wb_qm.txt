@@ -2678,7 +2678,8 @@ byt 防
 byuj 職
 byuy 䧛
 bywn 阬
-byyp 﨤
+byp 﨤
+bypi 﨤
 c 以
 c 又
 ca 戏
